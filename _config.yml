@@ -1,4 +1,17 @@
-name: Jungle Biome
-description: 
-paginate: 10
-baseurl: '/EBNBiome/'
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Jungle Biome
+tagline:             'Welcome to the Jungle'
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             '/EBNBiome/'
+paginate:            5
+
+# About/contact
+author:
+  name:              E. Nelson
+
+# Custom vars
+version:             1.0.0
