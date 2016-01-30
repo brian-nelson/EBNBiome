@@ -6,7 +6,7 @@ title:               Jungle Biome
 tagline:             'Welcome to the Jungle'
 description:         ''
 url:                 http://lanyon.getpoole.com
-baseurl:             '/EBNBiome/'
+baseurl:             'http://brian-nelson.github.io/EBNBiome'
 paginate:            5
 
 # About/contact
