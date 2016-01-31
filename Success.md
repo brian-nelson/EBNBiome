@@ -1,0 +1,4 @@
+#Success:
+
+To succeed in a rainforest many animals and plants work together. Pitcher Plants, plants filled with water, trap it’s food in the water. Spiders take advantage of this by climbing in and taking the insects. The spiders do not harm the plant because their waste fall into the water and feed the plant. When they work together they are cooperating, however some animals have to compete to get the things they need. The animals food source may be shared with another animals so they must fight to get it. 
+
